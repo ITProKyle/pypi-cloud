@@ -1,0 +1,7 @@
+[virtualenvs]
+in-project = true
+
+[repositories]
+[repositories.testpypi]
+# https://github.com/python-poetry/poetry/issues/858
+url = "https://test.pypi.org/legacy/"
